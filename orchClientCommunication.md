@@ -35,7 +35,7 @@
         }, 
         {
             id: 2,
-            title: "you think about all the decisions you took in your life
+            title: "you think about all the decisions you took in your life"
         }
     ]
 }
